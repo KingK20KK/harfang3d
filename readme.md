@@ -295,4 +295,3 @@ There are numerous ways to help Harfang grow its community:
 ![alt text](https://raw.githubusercontent.com/harfang3d/image-storage/main/portfolio/3.2.6/marine-melodies-screenshot_1280.png)
 
 *(Marine Melodies, by Resistance Norway)*
-
